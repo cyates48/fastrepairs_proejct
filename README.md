@@ -1,7 +1,6 @@
 # fastrepairs_proejct
 
-Christopher Yates, Ilyas Reyhanoglu
-Databases Project
+Contributors: Christopher Yates, Ilyas Reyhanoglu
 
 FastRepair is an online item repair shop that allows for both customers and employers to input/check information on their respective webpages. An employer is anyone who would be working on the item.
 
